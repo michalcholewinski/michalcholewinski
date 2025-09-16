@@ -4,7 +4,7 @@
 - 🗣️ Speaking fluently in: Polish, English, and German.
 - 🌐 Proud member of the Polish Blockchain Association.
 - 🌐 Check out my personal website: [cholewinskimichal.com](https://cholewinskimichal.com)
-- 📚 Learn with me at: [codementor.pl](https://codementor.pl) and [eagertoit.com](https://eagertoit.com)
+- 📚 Learn with me at: [anarchitectto.be](https://anarchitectto.be)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/michalcholewinski/)
 
 <!--
