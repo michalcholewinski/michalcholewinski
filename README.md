@@ -1,23 +1,31 @@
-👋 Hi there! I'm Michał Cholewiński.
+<div align="center">
 
-- 🛠️ Since 2014, I've been crafting software solutions as a developer.
-- 🗣️ Speaking fluently in: Polish, English, and German.
-- 🌐 Proud member of the Polish Blockchain Association.
+# 👋 Hi there, I'm Michał Cholewiński
+
+### Software developer since 2014 · Open to conversations about practical AI adoption
+
+[![Website](https://img.shields.io/badge/Website-cholewinskimichal.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cholewinskimichal.com)
+[![Learning](https://img.shields.io/badge/Learn%20with%20me-anarchitectto.be-6E40C9?style=for-the-badge&logo=bookstack&logoColor=white)](https://anarchitectto.be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalcholewinski/)
+
+</div>
+
+---
+
+## 🧭 About me
+
+| | |
+|---|---|
+| 🛠️ **Developer** | Since 2014, I've been crafting software solutions as a developer. |
+| 🗣️ **Languages** | Speaking fluently in: Polish, English, and German. |
+| 🌐 **Community** | Proud member of the Polish Blockchain Association. |
+
+## 🤖 Let's talk AI adoption
+
+Curious about bringing AI into real-world software and teams? I'd love to exchange ideas, so feel free to reach out and start the conversation.
+
+## 🔗 Find me online
+
 - 🌐 Check out my personal website: [cholewinskimichal.com](https://cholewinskimichal.com)
 - 📚 Learn with me at: [anarchitectto.be](https://anarchitectto.be)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/michalcholewinski/)
-
-<!--
-**michalcholewinski/michalcholewinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
